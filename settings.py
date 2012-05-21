@@ -13,7 +13,6 @@ PHRASES = [
     "ee by gum",
     "sup wi' 'im",
     "Michael Palin",
-    "face like a slapped arse",
     "how much",
     "chuffin' nora",
     "god's own county",
